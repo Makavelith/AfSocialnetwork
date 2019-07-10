@@ -18,14 +18,14 @@ It's a prototype of a Socialnetwork for action figure lovers
 ## Installing Xampp
 - Link: https://www.apachefriends.org/pt_br/index.html
 
-On the site will have information about installing and setuping xampp.
+On the site will have information about installing and setting xampp.
 
 ## Installing Sublime
 
 Or other code editor that suports PHP, JavaScript, CSS and HTML.
 - Link: https://www.sublimetext.com/
 
-On the site will have information about installing and setuping Sublime.
+On the site will have information about installing and setting Sublime.
 
 ## Importing the database 
 
